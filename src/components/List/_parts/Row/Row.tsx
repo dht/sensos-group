@@ -38,7 +38,7 @@ export function Row(props: RowProps) {
       <Cell>{name}</Cell>
       <Cell>{description}</Cell>
       <Cell>
-        <Icon name='edit' />
+        <Icon name='text_snippet' />
       </Cell>
     </Wrapper>
   );

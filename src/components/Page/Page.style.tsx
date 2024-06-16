@@ -18,4 +18,8 @@ export const Header = styled.div`
   border-bottom: 1px solid #ccc;
   margin-bottom: 30px;
   padding-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 `;
