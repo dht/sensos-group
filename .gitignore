@@ -1,0 +1,14 @@
+.DS_Store
+.depcheck
+node_modules/
+dist/
+coverage/
+docs/slack.md
+server/.env
+docs/ideas.md
+.env
+har/
+.todos/
+stats.html
+scripts/output/
+.firebase
